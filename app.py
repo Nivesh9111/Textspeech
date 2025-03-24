@@ -437,4 +437,4 @@ st.markdown("""
 # Footer
 st.markdown("---")
 st.markdown("Built for Akaike Internship Assignment | News Summarization and Text-to-Speech Application")
-st.markdown("Created By Tarun Bajaj")
+st.markdown("Created By Nivesh Yadav")
